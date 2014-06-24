@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FactoryTest</string>
+    <string name="key_1">1</string>
+    <string name="key_2">2</string>
+    <string name="key_3">3</string>
+    <string name="key_4">4</string>
+    <string name="switch_to_factory">Switch to Factory mode</string>
+    <string name="title_activity_main_factory">FactoryMain</string>
+    <string name="Color_Temperature">Color Temperature</string>
+    <string name="ADC_Calibration">ADC Calibration</string>
+    <string name="menu_settings">Settings</string>
+    <string name="TextView01">TextView01</string>
+    <string name="TextView02">TextView02</string>
+    <string name="left_icon">&lt;&lt;</string>
+    <string name="right_icon">>></string>
+</resources>

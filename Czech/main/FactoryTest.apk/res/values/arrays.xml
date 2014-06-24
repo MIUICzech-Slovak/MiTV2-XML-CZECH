@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="FactoryTitle_arry">
+        <item>Input Source</item>
+        <item>Aging Mode</item>
+        <item>UART</item>
+        <item>Internal Pattern</item>
+        <item>EDID_WP</item>
+        <item>Site Air Channels</item>
+        <item>Site Cable Channels</item>
+        <item>Pannel Selection</item>
+        <item>Color Temperature</item>
+        <item>ADC Calibration</item>
+        <item>All Reset</item>
+        <item>Factory Reset</item>
+        <item>System FW</item>
+        <item>Model Name</item>
+        <item>Serial Number</item>
+        <item>PQ-AQ Ver.</item>
+        <item>V/H EDID Ver.</item>
+        <item>Panel Table</item>
+        <item>Factory Mode</item>
+    </string-array>
+</resources>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="resolution_list_options">
+        <item>WVGA Resolution</item>
+        <item>720P Resolution</item>
+        <item>1080P Resolution</item>
+    </string-array>
+    <string-array name="resolution_list_options_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="bitrate_list_options">
+        <item>12 mbps</item>
+        <item>16 mbps</item>
+        <item>20 mbps</item>
+    </string-array>
+    <string-array name="bitrate_list_options_values">
+        <item>12</item>
+        <item>16</item>
+        <item>20</item>
+    </string-array>
+    <string-array name="group_owner_intent">
+        <item>-1</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+    </string-array>
+    <string-array name="group_owner_intent_values">
+        <item>-1</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+    </string-array>
+</resources>
