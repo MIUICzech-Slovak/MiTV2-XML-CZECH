@@ -1,6 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
+<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
 <resources>
-    <string name="app_name">Wfd SDK Service</string>
-    <string name="permlab_qcWifiP2p">Qualcomm WiFi P2P</string>
-    <string name="permdesc_qcWifiP2p">Permission to access custom QC WiFi P2P operations for WFD</string>
+  <string name="app_name">Wfd SDK Service</string>
+  <string name="permdesc_qcWifiP2p">Permission to access custom QC WiFi P2P operations for WFD</string>
+  <string name="permlab_qcWifiP2p">Qualcomm WiFi P2P</string>
 </resources>
