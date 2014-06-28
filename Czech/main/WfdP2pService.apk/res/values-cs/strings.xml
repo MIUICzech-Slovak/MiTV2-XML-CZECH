@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
+<resources>
+  <string name="app_name">Služba Wfd SDK</string>
+  <string name="permdesc_qcWifiP2p">Oprávnění pro přístup k vlastní QC WiFi P2P operací pro WFD</string>
+  <string name="permlab_qcWifiP2p">Qualcomm WiFi P2P</string>
+</resources>
