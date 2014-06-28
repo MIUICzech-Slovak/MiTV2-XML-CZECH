@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
+<resources>
+    <string-array name="pref_camera_focusmode_entryvalues">
+        <item>Autom.</item>
+        <item>Nekonečno</item>
+        <item>Makro</item>
+        <item>Normální</item>
+        <item>Kontinuální</item>
+    </string-array>
+    <string-array name="pref_camera_flashmode_entryvalues">
+        <item>Autom.</item>
+        <item>Zapnutý</item>
+        <item>Vypnutý</item>
+    </string-array>
+    <string-array name="pref_camera_video_flashmode_entryvalues">
+        <item>Blesk</item>
+        <item>Vypnuto</item>
+    </string-array>
+    <string-array name="pref_camera_recordlocation_entryvalues">
+        <item>Vypnuto</item>
+        <item>Zapnuto</item>
+    </string-array>
+    <string-array name="pref_camera_whitebalance_entryvalues">
+        <item>Autom.</item>
+        <item>Žárovka</item>
+        <item>Denní světlo</item>
+        <item>Zářivka</item>
+        <item>Slunečný den</item>
+    </string-array>
+    <string-array name="pref_camera_scenemode_entryvalues">
+        <item>Autom.</item>
+        <item>Akce</item>
+        <item>Noc</item>
+        <item>Západ slunce</item>
+        <item>Párty</item>
+        <item>Asd</item>
+        <item>Portrét</item>
+        <item>Na šířku</item>
+        <item>Noční portrét</item>
+        <item>Divadlo</item>
+        <item>Pláž</item>
+        <item>Sníh</item>
+        <item>Stabilní foto</item>
+        <item>Ohňostroj</item>
+        <item>Sporty</item>
+        <item>Světlo svíčky</item>
+        <item>Světlo v pozadí</item>
+        <item>Květiny</item>
+        <item>AR</item>
+    </string-array>
+    <string-array name="pref_camera_jpegquality_entryvalues">
+        <item>55</item>
+        <item>65</item>
+        <item>75</item>
+        <item>85</item>
+        <item>95</item>
+        <item>100</item>
+        <item>Vysoká</item>
+        <item>Nizká</item>
+        <item>Normální</item>
+    </string-array>
+    <string-array name="pref_camera_coloreffect_entryvalues">
+        <item>Žádný efekt</item>
+        <item>Mono</item>
+        <item>Sépie</item>
+        <item>negativ</item>
+        <item>Solarizace</item>
+        <item>Posterizace</item>
+        <item>Voda</item>
+        <item>Reliéf</item>
+        <item>Skica</item>
+        <item>Zářivka</item>
+        <item>Pastel</item>
+        <item>Mozaika</item>
+        <item>Červený odstín</item>
+        <item>Modrý odstín</item>
+        <item>Zelený odstín</item>
+    </string-array>
+    <string-array name="pref_camera_antibanding_entryvalues">
+        <item>Vypnuta</item>
+        <item>50hz</item>
+        <item>60hz</item>
+        <item>Autom.</item>
+    </string-array>
+    <string-array name="pref_camera_facedetection_entryvalues">
+        <item>Vypnuta</item>
+        <item>Zapnuta</item>
+    </string-array>
+    <string-array name="pref_camera_scenedetect_entryvalues">
+        <item>Vypnuta</item>
+        <item>Zapnuta</item>
+    </string-array>
+    <string-array name="pref_camera_redeyereduction_entryvalues">
+        <item>Zapnuta</item>
+        <item>Vypnuta</item>
+    </string-array>
+</resources>
