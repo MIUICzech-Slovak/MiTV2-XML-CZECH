@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
+<resources>
+  <string name="ADC_Calibration">ADC kalibrace</string>
+  <string name="Color_Temperature">Teplota barev</string>
+  <string name="TextView01">TextView01</string>
+  <string name="TextView02">TextView02</string>
+  <string name="app_name">FactoryTest</string>
+  <string name="key_1">1</string>
+  <string name="key_2">2</string>
+  <string name="key_3">3</string>
+  <string name="key_4">4</string>
+  <string name="left_icon">&lt;&lt;</string>
+  <string name="menu_settings">Nastavení</string>
+  <string name="right_icon">&gt;&gt;</string>
+  <string name="switch_to_factory">Přepnout do továrního módu</string>
+  <string name="title_activity_main_factory">FactoryMain</string>
+</resources>

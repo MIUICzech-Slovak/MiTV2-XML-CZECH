@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
+<resources>
+  <string name="app_label">Ukládací prostor pro obsah DRM</string>
+  <string name="permdesc_accessDrm">Umožňuje aplikaci získat přístup k obsahu chráněnému technologií DRM.</string>
+  <string name="permdesc_installDrm">Umožňuje aplikaci nainstalovat obsah chráněný pomocí technologie DRM.</string>
+  <string name="permlab_accessDrm">Získat přístup k obsahu DRM.</string>
+  <string name="permlab_installDrm">Nainstalovat obsah DRM.</string>
+</resources>
