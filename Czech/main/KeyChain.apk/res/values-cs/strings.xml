@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
+<resources>
+  <string name="allow_button">Povolit</string>
+  <string name="app_name">Klíčenka</string>
+  <string name="deny_button">Odmítnout</string>
+  <string name="install_new_cert_button_label">Instalovat</string>
+  <string name="install_new_cert_message">Certifikáty můžete instalovat ze souboru PKCS#12 s příponou %1$s nebo %2$s, umístěného v externím úložišti.</string>
+  <string name="requesting_application">Aplikace %s vyžaduje certifikát. Výběrem certifikátu aplikaci umožníte, aby nyní i v budoucnosti používala na serverech tuto identitu.</string>
+  <string name="requesting_server">Aplikace identifikovala server požadavku: %s. Přístup k certifikátu byste měli povolit, pouze pokud aplikaci důvěřujete.</string>
+  <string name="title_no_certs">Certifikáty nenalezeny</string>
+  <string name="title_select_cert">Vyberte certifikát</string>
+</resources>
