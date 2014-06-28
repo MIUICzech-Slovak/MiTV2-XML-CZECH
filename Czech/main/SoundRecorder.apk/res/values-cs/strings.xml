@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
+<resources>
+  <string name="accept">Hotovo</string>
+  <string name="app_name">Záznamník</string>
+  <string name="audio_db_album_name">Zvukové nahrávky</string>
+  <string name="audio_db_artist_name">Záznamník</string>
+  <string name="audio_db_playlist_name">Moje záznamy</string>
+  <string name="audio_db_title_format">dd-MM.yyyy HH:mm:ss</string>
+  <string name="button_ok">OK</string>
+  <string name="discard">Zahodit</string>
+  <string name="error_app_internal">Vnitřní chyba aplikace</string>
+  <string name="error_app_unsupported">Nepodporovaný formát</string>
+  <string name="error_mediadb_aacincall">Nahrávání hlasového volání AAC není podporováno.</string>
+  <string name="error_mediadb_incall">Tato funkce je podporována pouze při hovoru</string>
+  <string name="error_mediadb_new_record">Nelze uložit nahraný záznam</string>
+  <string name="error_sdcard_access">SD karta není dostupná</string>
+  <string name="insert_sd_card">Vložte SD kartu</string>
+  <string name="max_length_reached">Dosažena maximální délka</string>
+  <string name="message_recorded">Zpráva byla zaznamenána</string>
+  <string name="min_available">K dispozici: %d</string>
+  <string name="press_record">Stiskněte: 0-MIC 1-Rx 2-Tx+Rx 3-AMR 4-EVRC 5-QCELP 6-AAC_MP4 9-AMR-WB A-AMR-WB-3GPP a spusťte nahrávání</string>
+  <string name="press_record_ssr">Stiskněte: 0-MIC 1-Rx 2-Tx+Rx 3-AMR 4-EVRC 5-QCELP 6-AAC_MP4 7-AAC_SSR 8-LPCM_SSR 9-AMR-WB A-AMR-WB-3GPP a spusťte nahrávání</string>
+  <string name="record_your_message">Nahrát vaši zprávu</string>
+  <string name="recording">Nahrávám...</string>
+  <string name="recording_stopped">Nahrávání zastaveno</string>
+  <string name="review_message">Zkontrolovat zprávu</string>
+  <string name="sec_available">%ds dostupné</string>
+  <string name="storage_is_full">Nedostatek volného místa</string>
+  <string name="timer_format" formatted="false">%02d:%02d</string>
+</resources>
