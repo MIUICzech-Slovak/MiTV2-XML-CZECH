@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
+<resources>
+    <string-array name="alarm_set">
+        <item>Budík je nastavený za méně než 1 min.</item>
+        <item>Budík se spustí za %1$s</item>
+        <item>Budík se spustí za %2$s</item>
+        <item>Budík se spustí za %1$s a %2$s</item>
+        <item>Budík se spustí za %3$s</item>
+        <item>Budík se spustí za %1$s a %3$s</item>
+        <item>Budík se spustí za %2$s a %3$s</item>
+        <item>Budík se spustí za %1$s, %2$s, a %3$s</item>
+    </string-array>
+    <string-array name="snooze_duration_entries">
+        <item>5 minut</item>
+        <item>10 minut</item>
+        <item>15 minut</item>
+        <item>20 minut</item>
+        <item>25 minut</item>
+        <item>30 minut</item>
+    </string-array>
+    <string-array name="auto_silence_entries">
+        <item>Vypnuto</item>
+        <item>5 minut</item>
+        <item>10 minut</item>
+        <item>15 minut</item>
+        <item>20 minut</item>
+        <item>25 minut</item>
+        <item>30 minut</item>
+    </string-array>
+    <string-array name="volume_button_setting_entries">
+        <item>Žádná akce</item>
+        <item>Odložení budíku</item>
+        <item>Zrušení budíku</item>
+    </string-array>
+</resources>
