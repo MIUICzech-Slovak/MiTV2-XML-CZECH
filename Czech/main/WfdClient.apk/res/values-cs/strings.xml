@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
+<resources>
+  <string name="advanced_preferences_name">Pokročilé nastavení</string>
+  <string name="app_name">Wfd klient</string>
+  <string name="bitrate_dialog_title">Vyberte datový tok</string>
+  <string name="bitrate_list_options_default_values">12</string>
+  <string name="bitrate_list_summary">Vyberte datový tok</string>
+  <string name="bitrate_list_title">Požadovaný datový tok</string>
+  <string name="btn_blank">Prázdné</string>
+  <string name="btn_create_group">Vytvořit skupinu</string>
+  <string name="btn_find">Najít</string>
+  <string name="btn_play_pause">Spustit</string>
+  <string name="btn_remove_group">Odebrat skupinu</string>
+  <string name="btn_sink">Sink</string>
+  <string name="btn_source">Zdroj</string>
+  <string name="btn_standby_resume">Pohotovostní režim</string>
+  <string name="btn_start_stop_uibc">Spustit UIBC</string>
+  <string name="btn_teardown">Demontáž</string>
+  <string name="client_text">Toto zařízení bude fungovat jako klient. Klepněte na tlačítko Galerie pro výběr souboru</string>
+  <string name="connect_options_peer_button">Nastavení připojení</string>
+  <string name="connect_peer_button">Připojit</string>
+  <string name="disconnect_peer_button">Odpojit</string>
+  <string name="discover_peers_button">Procházet</string>
+  <string name="empty"/>
+  <string name="empty_message">nebylo nalezeno žádné zařízení. Vyberte tlačítko hledání z lišty akcí.</string>
+  <string name="enable_p2p_button">P2P Zap/Vyp</string>
+  <string name="expanded">Rozšířené</string>
+  <string name="filter">Filtr</string>
+  <string name="group_owner_text">"Jsem vlastník skupiny? "</string>
+  <string name="no">Ne</string>
+  <string name="p2p_off_warning">Zapněte P2P z nastavení systému</string>
+  <string name="perm_dhcp_desc">peer device information access</string>
+  <string name="perm_dhcp_label">Informace o připojených zařízeních</string>
+  <string name="position">Pozice</string>
+  <string name="preferences_name">Předvolby</string>
+  <string name="resolution_dialog_title">Vybrat rozlišení</string>
+  <string name="resolution_list_options_default_values">0</string>
+  <string name="resolution_list_summary">Vybrat rozlišení</string>
+  <string name="resolution_list_title">Požadované rozlišení</string>
+  <string name="start_client_button">Spustit relaci</string>
+  <string name="start_uibc_button">Spustit UIBC</string>
+  <string name="surface_activity_name">Surface Activity</string>
+  <string name="toggle">Přepínač</string>
+  <string name="tv_peers">Peers</string>
+  <string name="wfd_bitrate_settings">wfd_bitrate_settings</string>
+  <string name="wfd_resolution_settings">wfd_resolution_settings</string>
+  <string name="yes">Ano</string>
+</resources>
