@@ -43,7 +43,5 @@
   <string name="surface_activity_name">Surface Activity</string>
   <string name="toggle">Přepínač</string>
   <string name="tv_peers">Peers</string>
-  <string name="wfd_bitrate_settings">wfd_bitrate_settings</string>
-  <string name="wfd_resolution_settings">wfd_resolution_settings</string>
   <string name="yes">Ano</string>
 </resources>

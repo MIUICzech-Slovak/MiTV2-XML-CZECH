@@ -99,7 +99,7 @@ Vystupte na chvíli ze zorného pole."</string>
   <string name="flash_on">S bleskem</string>
   <string name="flip">Převrátit</string>
   <string name="flip_tooltip">Potáhněte snímek pro jeho převrácení</string>
-  <string name="focal_length">Ohnisk. vzdálenost</string>
+  <string name="focal_length">Ohnisková vzdálenost</string>
   <string name="folder_camera">Fotoaparát</string>
   <string name="folder_download">Stahování</string>
   <string name="folder_imported">Importováno</string>
@@ -149,7 +149,7 @@ Vystupte na chvíli ze zorného pole."</string>
   <string name="no_thumbnail">Miniatura není dostupná</string>
   <string name="no_video_to_share">Žádná videa ke sdílení.</string>
   <string name="not_enough_space">Vaše SD karta je plná.</string>
-  <string name="not_selectable_in_effect">Nezle zvolit při zapnutém efektu.</string>
+  <string name="not_selectable_in_effect">Nelze zvolit při zapnutém efektu.</string>
   <string name="not_selectable_in_scene_mode">Tuto možnost nelze ve scénickém režimu vybrat.</string>
   <string name="ok">OK</string>
   <string name="orientation">Orientace</string>
@@ -313,7 +313,7 @@ Vystupte na chvíli ze zorného pole."</string>
   <string name="pref_camera_selectablezoneaf_entry_centerweighted">Na střed</string>
   <string name="pref_camera_selectablezoneaf_entry_frameaverage">Matice</string>
   <string name="pref_camera_selectablezoneaf_entry_spotmetering">Bod</string>
-  <string name="pref_camera_selectablezoneaf_title">Výběr zóny automatického ostřenís</string>
+  <string name="pref_camera_selectablezoneaf_title">Výběr zóny automatického ostření</string>
   <string name="pref_camera_settings_category">Nastavení fotoaparátu</string>
   <string name="pref_camera_sharpness_entry_level0">Úroveň 0</string>
   <string name="pref_camera_sharpness_entry_level1">Úroveň 1</string>

@@ -43,7 +43,7 @@
 %1$s"</string>
   <string name="nowplaying_title">Nyní se přehrává</string>
   <string name="onesong">1 skladba</string>
-  <string name="party_shuffle">áhodně – všechny</string>
+  <string name="party_shuffle">Náhodně – všechny</string>
   <string name="party_shuffle_off">Vypnout náhodné přehrávání všeho</string>
   <string name="partyshuffle_title">Náhodně – všechny</string>
   <string name="play_all">Přehrát vše</string>

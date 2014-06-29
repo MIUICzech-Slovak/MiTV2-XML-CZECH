@@ -51,7 +51,7 @@
         <item>10080</item>
     </integer-array>
     <string-array name="preferences_default_reminder_labels">
-        <item>None</item>
+        <item>Nikdy</item>
         <item>0 minut</item>
         <item>1 minuta</item>
         <item>5 minut</item>

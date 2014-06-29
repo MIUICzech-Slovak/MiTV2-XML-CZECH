@@ -255,9 +255,9 @@
   <string name="fdn_disabled">Fixní telefonní čísla jsou vypnuta</string>
   <string name="fdn_enable_puk2_requested">Heslo je nesprávné. Změňte kód PIN2 a zkuste to znovu.</string>
   <string name="fdn_enabled">Fixní telefonní čísla jsou zapnuta</string>
-  <string name="fdn_failed">FDN operation failed.</string>
+  <string name="fdn_failed">Operace FDN selhala.</string>
   <string name="fdn_invalid_number">Povolené telefonní číslo nebylo aktualizováno: Délka čísla nemůže přesahovat 20 číslic.</string>
-  <string name="fdn_unavailable">FDN Service is not available</string>
+  <string name="fdn_unavailable">Služba FDN není dostupná</string>
   <string name="fw_change_failed">"Změna čísla hlasové schránky se nezdařila. Pokud problém přetrvává, obraťte se na svého operátora."</string>
   <string name="fw_get_in_vm_failed">"Načtení a uložení aktuálního nastavení čísla pro přesměrování se nezdařilo. Chcete přesto přepnout na nového poskytovatele?"</string>
   <string name="general_news_settings">Obecné zprávy</string>
@@ -674,7 +674,7 @@
   <string name="throttle_time_frame_subtext">"Uplynulo %1$d٪ cyklu. Počet dní do začátku dalšího období: %2$d (%3$s)"</string>
   <string name="title_data_settings">Nastavení dat</string>
   <string name="transport">Protokol</string>
-  <string name="transport_title">Typ trasportu</string>
+  <string name="transport_title">Typ transportu</string>
   <string name="tty_mode_option_summary">Nastavit režim TTY</string>
   <string name="tty_mode_option_title">Režim TTY</string>
   <string name="unknown">Neznámé</string>
