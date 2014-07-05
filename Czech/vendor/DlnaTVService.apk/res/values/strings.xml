@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DlnaTVService</string>
+    <string name="renderer_activity_name">Dlna Renderer</string>
+    <string name="dlna_daemon_start">Dlna Daemon Start</string>
+    <string name="dlna_daemon_name">Dlna Daemon</string>
+    <string name="dlna_video_service_name">Dlna Video Service</string>
+    <string name="dlna_photo_service_name">Dlna Photo Service</string>
+    <string name="menu_search_lan">Search Lan</string>
+    <string name="menu_reg_device">Register Device</string>
+    <string name="menu_unreg_device">Unregister Device</string>
+    <string name="dlna_upnp_service_name">UPNP Service</string>
+    <string name="tv_notification_title">我发现你了</string>
+    <string name="tv_notification_content">附近有DLNA设备，可投屏互动（使用一次投屏功能此通知将不再提示）</string>
+</resources>

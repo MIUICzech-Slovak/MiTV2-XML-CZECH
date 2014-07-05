@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">小米电视手册</string>
+    <string name="main_title">小米电视手册</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="online_video">在线影视</string>
+    <string name="app_game">应用与游戏</string>
+    <string name="hdplayer">高清播放器</string>
+    <string name="settings">设置</string>
+    <string name="tv">电视</string>
+    <string name="install">安装说明</string>
+    <string name="controller">遥控器</string>
+    <string name="cloud_gallery">家庭云相册</string>
+    <string name="miracast">Miracast</string>
+    <string name="status_bar">桌面</string>
+    <string name="accessory">外设</string>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="navbar_search_targets">
+        <item>@null</item>
+        <item>@android:drawable/highlight_disabled</item>
+        <item>@null</item>
+        <item>@null</item>
+    </array>
+    <array name="navbar_search_target_descriptions">
+        <item>@null</item>
+        <item>@android:string/keyboardview_keycode_mode_change</item>
+        <item>@null</item>
+        <item>@null</item>
+    </array>
+    <array name="navbar_search_direction_descriptions">
+        <item>@null</item>
+        <item>@android:string/date_picker_increment_day_button</item>
+        <item>@null</item>
+        <item>@null</item>
+    </array>
+</resources>
