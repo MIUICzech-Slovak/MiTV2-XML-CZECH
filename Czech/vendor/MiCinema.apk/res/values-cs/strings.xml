@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">小米放映室</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="chwall_title_small">Xiaomi Play House</string>
+    <string name="chwall_title_big">小米放映室</string>
+    <string name="chwall_num">个频道</string>
+    <string name="channel">频道</string>
+    <string name="buy_channel_title_fmt">开通%s频道</string>
+    <string name="channel_price_unit">米币</string>
+    <string name="epg_detail_type">类型：</string>
+    <string name="epg_detail_director">导演：</string>
+    <string name="epg_detail_duration">片长：%d分钟</string>
+    <string name="epg_detail_actor">主演：</string>
+    <string name="text_separator">/</string>
+    <string name="epg_status_downloading">正在缓冲</string>
+    <string name="epg_status_disk_full">存储空间不足</string>
+    <string name="epg_status_download_err">正在获取状态</string>
+    <string name="epg_now">本周影片</string>
+    <string name="epg_next">下周影片</string>
+    <string name="channel_des">每日精选极清电影准点放送</string>
+    <string name="buy">购买</string>
+    <string name="epg_err">节目单暂时无法获取，稍后再试试吧</string>
+    <string name="channel_err">正在为您下载频道内容</string>
+    <string name="channel_err_tips">小米放映室需要从网络下载高清内容，请确保您的小米路由器正常联网</string>
+    <string name="net_err_title">网络好像有点问题</string>
+    <string name="net_err_txt">"*小米放映室需要小米路由的支持，
+请确保您的电视已经连接了正常联网的小米路由器"</string>
+</resources>

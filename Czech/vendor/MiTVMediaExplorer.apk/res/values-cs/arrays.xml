@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="menu_root">
+        <item>幻灯片</item>
+        <item>左旋转</item>
+        <item>右旋转</item>
+        <item>删除</item>
+    </string-array>
+    <string-array name="scraper_menu_root">
+        <item>排序</item>
+    </string-array>
+    <string-array name="scraper_menu_sort">
+        <item>时间倒序</item>
+        <item>时间正序</item>
+        <item>A-Z</item>
+        <item>Z-A</item>
+    </string-array>
+</resources>

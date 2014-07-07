@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RemoteControllerService</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="action_settings">Settings</string>
+    <string name="loading"><CDATA>正在加载...</CDATA></string>
+    <string name="share_friends_search_default_text">搜索好友</string>
+    <string name="video_play">播放</string>
+    <string name="app_details">详情</string>
+    <string name="platform_box">从小米盒子分享了</string>
+    <string name="platform_tv">从小米电视分享了</string>
+    <string name="platform_others">分享了</string>
+    <string name="video_type">一部影片给你</string>
+    <string name="app_type">一个应用给你</string>
+    <string name="confirm">确定</string>
+    <string name="share_input_message">信息</string>
+    <string name="get_share_friends_fail"><CDATA>获取好友失败...</CDATA></string>
+    <string name="share_input_default_message">好东西分享给你,快来看看吧~</string>
+    <string name="share_reason_confirm">确认</string>
+    <string name="share_reason_cancel">取消</string>
+    <string name="share_reason_title">分享寄语</string>
+</resources>

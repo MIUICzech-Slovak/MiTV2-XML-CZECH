@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">远程下载</string>
+    <string name="xunlei_name">迅雷</string>
+    <string name="tencent_name">腾讯视频</string>
+    <string name="bind_thunder">激活迅雷帐号</string>
+    <string name="thunder_info">远程下载由迅雷提供技术驱动</string>
+    <string name="thunder_service_error">"迅雷服务无响应
+请重试"</string>
+    <string name="thunder_disk_error">"请插入存储设备
+U盘或移动硬盘"</string>
+    <string name="thunder_network_error">"当前网络不可用
+请检查网络连接"</string>
+    <string name="thunder_description_text_1">远程下载是一种跨地域远程控制的下载方式，真正做到随时随地下载。</string>
+    <string name="thunder_description_text_2">您可以选择以下方式激活迅雷会员的专属远程下载服务：</string>
+    <string name="thunder_description_text_3_1">• 使用手机迅雷扫描左侧显示</string>
+    <string name="thunder_description_text_3_2">二维码</string>
+    <string name="thunder_description_text_3_3">完成激活</string>
+    <string name="thunder_description_text_4">• 登录网站 yuancheng.xunlei.com 输入%1$s进行激活</string>
+    <string name="thunder_description_text_4_error">• 登录网站 yuancheng.xunlei.com 输入6位激活码进行激活</string>
+    <string name="user_xunlei_info_description_text">"远程下载是一种跨地域远程控制的下载方式，真正做到随时随地下载。
+您已经激活了迅雷账户，可以享受迅雷会员的专属远程下载服务。"</string>
+    <string name="xunlei_cancel_button">返回</string>
+    <string name="xunlei_unbind_button">解除绑定</string>
+    <string name="need_to_bind">"未发现可支持的视频、音乐、图片文件
+如果您没有绑定过下载服务，请按菜单键绑定"</string>
+    <string name="title_activity_fullscreen_info">FullscreenInfoActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">"DUMMY
+CONTENT"</string>
+    <string name="title_activity_full_screen_info">FullScreenInfoActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="xunlei_download_title">迅雷远程下载</string>
+    <string name="xunlei_download_button_start">开始使用</string>
+    <string name="xunlei_download_button_help">了解更多</string>
+    <string name="xunlei_download_button_directory">进入下载目录</string>
+    <string name="xunlei_download_button_unbind">解除绑定</string>
+    <string name="xunlei_download_button_refresh_code">刷新二维码</string>
+    <string name="xunlei_download_button_stop_use">停止使用</string>
+    <string name="xunlei_download_dialog_getting_status">正在获取当前绑定状态...</string>
+    <string name="xunlei_info_code_1_1">还没有迅雷影音?</string>
+    <string name="xunlei_info_code_1_2">扫描下方二维码</string>
+    <string name="xunlei_info_code_1_3">下载迅雷影音</string>
+    <string name="xunlei_info_code_2_1">已经安装迅雷影音?</string>
+    <string name="xunlei_info_code_2_2">扫描下方二维码</string>
+    <string name="xunlei_info_code_2_3">绑定%1$s</string>
+    <string name="xunlei_download_url">http://vip.xunlei.com/d?gw</string>
+    <string name="xunlei_code_fail_prompt">二维码加载失败，请稍后重试</string>
+    <string name="xunlei_load_code_prompt">正在加载二维码...</string>
+    <string name="xunlei_page1_info_title">绑定迅雷远程下载，随时随地，想下就下！</string>
+    <string name="xunlei_page1_info_content">"迅雷远程下载有哪些优势：
+ 1. 走到哪里都可以下载
+ 2. 畅享下载，不用忍受公司的网速
+ 3. 亲人不再为下载发愁"</string>
+    <string name="xunlei_page_bind_info_content">"如何绑定迅雷远程下载?
+ 1. 打开迅雷影音APP，登录账号 
+ 2. 在“我的-下载-远程下载”中选择“添加新设备” 
+ 3. 在弹出框中选择“扫描二维码添加”，扫描左侧二维码 
+ 4. 也可以登录yuancheng.xunlei.com或通过迅雷7上的远程下载功能，输入以下激活码绑定:"</string>
+    <string name="qq_download_title">腾讯远程下载</string>
+    <string name="qq_download_turn_on">开启离线下载</string>
+    <string name="qq_download_turn_off">关闭离线下载</string>
+    <string name="qq_dialog_getting_status">请稍候...</string>
+    <string name="wait_one_minute">正在开启迅雷下载服务,请稍候...</string>
+    <string name="qq_download_url">http://3g.v.qq.com/d/downapp.html?ptag=160</string>
+    <string name="qq_info_code_1_1">还没有腾讯视频?</string>
+    <string name="qq_info_code_1_2">扫描下方二维码</string>
+    <string name="qq_info_code_1_3">下载腾讯视频</string>
+    <string name="qq_info_code_2_1">已经安装腾讯视频?</string>
+    <string name="qq_info_code_2_2">扫描下方二维码</string>
+    <string name="qq_info_code_2_3">绑定%1$s</string>
+    <string name="qq_page1_info_title">人还在车上，视频已经下好在等你~</string>
+    <string name="qq_page1_info_content">"1. 下载腾讯视频手机客户端
+2. 安装后，打开腾讯视频客户端与%1$s建立连接
+3. 把腾讯视频客户端中的视频，离线缓存到%1$s
+4. 在腾讯视频手机客户端中，对离线缓存视频进行管理"</string>
+    <string name="qq_page_bind_info_content">"如何绑定腾讯视频远程下载？
+ 1. 打开腾讯视频手机客户端
+ 2. 在个人中心中选择多屏互动
+ 3. 点击扫一扫后，扫描左侧的二维码，即可完成绑定"</string>
+    <string name="qq_page1_info_caution">* 目前只支持腾讯独播视频的远程下载</string>
+</resources>

@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>正在扫描...</item>
+        <item>正在连接...</item>
+        <item>正在进行身份验证...</item>
+        <item>正在获取 IP 地址...</item>
+        <item>已连接</item>
+        <item>已暂停</item>
+        <item>正在断开连接...</item>
+        <item>已断开连接</item>
+        <item>失败</item>
+        <item>已阻止</item>
+        <item>暂时关闭状况不佳的连接</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>正在扫描...</item>
+        <item>正在连接到 %1$s...</item>
+        <item>正在通过 %1$s 进行身份验证...</item>
+        <item>正在从 %1$s 获取 IP 地址...</item>
+        <item>已连接到 %1$s</item>
+        <item>已暂停</item>
+        <item>正在断开与 %1$s 的连接...</item>
+        <item>已断开连接</item>
+        <item>失败</item>
+        <item>已阻止</item>
+        <item>暂时关闭状况不佳的连接</item>
+    </string-array>
+    <string-array name="wifi_eap_method">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+    </string-array>
+    <string-array name="wifi_p2p_wps_setup">
+        <item>按钮</item>
+        <item>从对等设备获取的 PIN</item>
+        <item>从此设备生成的 PIN</item>
+    </string-array>
+    <string-array name="wifi_p2p_status">
+        <item>已连接</item>
+        <item>已邀请</item>
+        <item>失败</item>
+        <item>可用</item>
+        <item>超出范围</item>
+    </string-array>
+    <string-array name="wifi_signal">
+        <item>弱</item>
+        <item>一般</item>
+        <item>较强</item>
+        <item>强</item>
+    </string-array>
+    <string-array name="wifi_eap_entries">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+    </string-array>
+    <string-array name="wifi_phase2_entries">
+        <item>无</item>
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_network_setup">
+        <item>关闭</item>
+        <item>按钮</item>
+        <item>从接入点获取的 PIN</item>
+        <item>从此设备生成的 PIN</item>
+    </string-array>
+    <string-array name="wifi_ip_settings">
+        <item>DHCP</item>
+        <item>静态</item>
+    </string-array>
+    <string-array name="wifi_proxy_settings">
+        <item>无</item>
+        <item>手动</item>
+    </string-array>
+    <string-array name="wifi_security">
+        <item>802.1X</item>
+        <item>PSK</item>
+        <item>WEP</item>
+        <item>无</item>
+    </string-array>
+    <string-array name="device_names">
+        <item>客厅电视</item>
+        <item>主卧电视</item>
+        <item>次卧电视</item>
+        <item>书房电视</item>
+        <item>自定义</item>
+    </string-array>
+    <string-array name="sleep_policy">
+        <item>30分钟</item>
+        <item>60分钟</item>
+        <item>120分钟</item>
+        <item>永不休眠</item>
+    </string-array>
+    <integer-array name="sleep_policy_values">
+        <item>30</item>
+        <item>60</item>
+        <item>120</item>
+        <item>-1</item>
+    </integer-array>
+    <string-array name="screensaver_policy">
+        <item>关闭</item>
+        <item>4分钟</item>
+        <item>8分钟</item>
+        <item>12分钟</item>
+    </string-array>
+    <string-array name="tv_preview_policy">
+        <item>TV</item>
+        <item>AV</item>
+        <item>HDMI1</item>
+        <item>HDMI2</item>
+        <item>HDMI3</item>
+        <item>VGA</item>
+        <item>DTMB</item>
+    </string-array>
+    <integer-array name="tv_preview_policy_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>5</item>
+        <item>4</item>
+        <item>7</item>
+    </integer-array>
+    <integer-array name="screensaver_policy_values">
+        <item>0</item>
+        <item>4</item>
+        <item>8</item>
+        <item>12</item>
+    </integer-array>
+    <string-array name="display_sound_profile">
+        <item>标准模式</item>
+        <item>用户模式</item>
+        <item>显示模式</item>
+        <item>电影模式</item>
+        <item>游戏模式</item>
+        <item>艳丽模式</item>
+        <item>运动模式</item>
+        <item>显示器模式</item>
+    </string-array>
+    <string-array name="display_sound_profile_desc">
+        <item>所有场景下的通用画面和音质模式</item>
+        <item>用户自定义自己喜欢的图像模式</item>
+        <item>显示模式</item>
+        <item>最大还原电影院胶片投影的颗粒视觉观感</item>
+        <item>游戏模式</item>
+        <item>用于展示、演示等需要艳丽图像显示的场景下使用</item>
+        <item>减少高速运动时画面所产生的拖影</item>
+        <item>连接电脑、小米盒子时可选用此模式</item>
+    </string-array>
+    <string-array name="display_parameters">
+        <item>亮度</item>
+        <item>对比度</item>
+        <item>饱和度</item>
+        <item>清晰度</item>
+        <item>色调</item>
+        <item>色温</item>
+        <item>背光</item>
+    </string-array>
+    <string-array name="display_color_temperatures">
+        <item>冷</item>
+        <item>标准</item>
+        <item>暖</item>
+    </string-array>
+    <string-array name="sound_profile">
+        <item>标准模式</item>
+        <item>电影模式</item>
+        <item>语音模式</item>
+    </string-array>
+    <string-array name="sound_profile_desc">
+        <item>所有场景下的通用声音模式</item>
+        <item>还原电影院的声场效果</item>
+        <item>可以增强人声的声音模式</item>
+    </string-array>
+    <string-array name="sound_input">
+        <item>蓝牙</item>
+        <item>spdif</item>
+        <item>aux</item>
+    </string-array>
+    <string-array name="sound_interface">
+        <item>HDMI ARC</item>
+        <item>AMP</item>
+        <item>SPDIF</item>
+    </string-array>
+    <string-array name="sound_output">
+        <item>电视扬声器</item>
+        <item>外部扬声器</item>
+    </string-array>
+    <string-array name="sound_output_desc">
+        <item>声音通过电视喇叭输出</item>
+        <item>声音通过音响、功放等输出</item>
+    </string-array>
+    <string-array name="xiaomi_sound_output">
+        <item>电视扬声器</item>
+        <item>小米家庭影院</item>
+    </string-array>
+    <string-array name="xiaomi_sound_output_desc">
+        <item>声音通过电视喇叭输出</item>
+        <item>电视连接小米的家庭影院</item>
+    </string-array>
+    <string-array name="soundBar_customize">
+        <item>高频</item>
+        <item>中频</item>
+        <item>低频</item>
+        <item>超低频</item>
+    </string-array>
+    <string-array name="SPDIF">
+        <item>PCM</item>
+        <item>Raw Data</item>
+        <item>关闭</item>
+    </string-array>
+    <string-array name="acoustics">
+        <item>平衡</item>
+        <item>清晰</item>
+        <item>强劲</item>
+    </string-array>
+    <string-array name="SPDIF_desc">
+        <item>数字音频解压后输出(双声道)</item>
+        <item>数字音频未解压输出(5.1声道)</item>
+        <item>模拟音频输出时，选择关闭</item>
+    </string-array>
+    <string-array name="recovery_retain">
+        <item>保留</item>
+        <item>不保留</item>
+    </string-array>
+    <string-array name="child_lock_policy">
+        <item>关闭</item>
+        <item>开启</item>
+    </string-array>
+    <string-array name="num_of_questions">
+        <item>5道题</item>
+        <item>10道题</item>
+    </string-array>
+    <string-array name="variety_of_questions">
+        <item>数学</item>
+    </string-array>
+    <string-array name="level_of_questions">
+        <item>入门</item>
+        <item>中级</item>
+        <item>高级</item>
+    </string-array>
+    <string-array name="bluetooth_visibility_timeout_entries">
+        <item>2 分钟</item>
+        <item>5 分钟</item>
+        <item>1 小时</item>
+        <item>永不超时</item>
+    </string-array>
+</resources>

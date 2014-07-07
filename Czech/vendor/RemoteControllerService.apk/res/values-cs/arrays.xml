@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="share_reason_video_recommand_texts">
+        <item>这部片子的男主角超帅！</item>
+        <item>亲爱的，还记得那年我们一起在电影院看的这部电影么？</item>
+        <item>快来看，这部片子太好笑了。</item>
+        <item>看的时候准备好零食和餐巾纸哦。</item>
+        <item>片子太好看了，强烈推荐你看。</item>
+        <item>这个剧最近正在热播。</item>
+        <item>我猜这个是你喜欢的。</item>
+        <item>这个就是前两天跟你说过的那个片子。</item>
+    </string-array>
+    <string-array name="share_reason_app_recommand_texts">
+        <item>这个应用很实用，你也快去下一个吧！</item>
+        <item>这个应用有点意思。</item>
+        <item>寓教于乐好应用。</item>
+        <item>最近很热门的应用诶，推荐给你~</item>
+        <item>这个游戏太酷了。</item>
+    </string-array>
+</resources>

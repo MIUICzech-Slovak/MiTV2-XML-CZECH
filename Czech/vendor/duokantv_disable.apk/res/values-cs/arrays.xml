@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="week_days">
+        <item>周一</item>
+        <item>周二</item>
+        <item>周三</item>
+        <item>周四</item>
+        <item>周五</item>
+        <item>周六</item>
+        <item>周日</item>
+    </string-array>
+    <string-array name="menu_setting_scale">
+        <item>自适应</item>
+        <item>强制全屏</item>
+    </string-array>
+    <string-array name="menu_online_setting_resolution">
+        <item>清晰度优先</item>
+        <item>流畅度优先</item>
+    </string-array>
+    <string-array name="menu_subtitle_opts">
+        <item>关闭字幕</item>
+        <item>字幕自动下载</item>
+        <item>设置字幕样式</item>
+    </string-array>
+    <string-array name="menu_root_online">
+        <item>选集</item>
+        <item>清晰度</item>
+        <item>画面比例</item>
+    </string-array>
+    <string-array name="menu_root_local">
+        <item>音轨选择</item>
+        <item>字幕设置</item>
+        <item>画面比例</item>
+        <item>显示播放进度</item>
+    </string-array>
+    <string-array name="menu_setting_3d_box">
+        <item>关闭3D</item>
+        <item>左右</item>
+        <item>上下</item>
+    </string-array>
+    <string-array name="menu_setting_3d">
+        <item>关闭3D</item>
+        <item>左右</item>
+        <item>上下</item>
+    </string-array>
+    <string-array name="menu_play_progress">
+        <item>开</item>
+        <item>关</item>
+    </string-array>
+    <string-array name="menu_switch">
+        <item>开启</item>
+        <item>关闭</item>
+    </string-array>
+    <string-array name="menu_3d_tv">
+        <item>关闭3D</item>
+        <item>自动识别</item>
+        <item>左右</item>
+        <item>上下</item>
+        <item>帧封装</item>
+    </string-array>
+    <string-array name="menu_3d_box">
+        <item>关闭3D</item>
+        <item>自动识别</item>
+        <item>左右</item>
+        <item>上下</item>
+    </string-array>
+    <string-array name="menu_sound_effect">
+        <item>音乐模式</item>
+        <item>影院模式</item>
+        <item>关闭</item>
+    </string-array>
+    <string-array name="menu_scene_mode">
+        <item>标准模式</item>
+        <item>电影模式</item>
+        <item>艳丽模式</item>
+        <item>运动模式</item>
+        <item>自定义模式</item>
+    </string-array>
+</resources>

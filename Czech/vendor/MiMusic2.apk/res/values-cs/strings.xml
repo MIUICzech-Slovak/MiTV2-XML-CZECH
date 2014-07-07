@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">网络电台</string>
+    <string name="default_ttf">FZLTH_GBK.TTF</string>
+    <string name="bold_ttf">FZLTHC_GBK.TTF</string>
+    <string name="player_menu">菜单</string>
+    <string name="player_channel">电台频道</string>
+    <string name="player_close_lyric">关闭歌词</string>
+    <string name="player_open_lyric">开启歌词</string>
+    <string name="player_channel_setting">电台设置</string>
+    <string name="my_channel">米联音乐</string>
+    <string name="my_fav">我的最爱</string>
+    <string name="my_local">本地音乐</string>
+    <string name="vip_try">试听</string>
+    <string name="vip_buy">成为会员</string>
+    <string name="vip_now">我是会员</string>
+    <string name="no_fav">还没有添加喜欢的歌曲</string>
+    <string name="no_local">没有发现本地音乐</string>
+    <string name="confirm">确认</string>
+    <string name="alert">提示</string>
+    <string name="airkan_channel_not_available">请使用小米手机的MIUI音乐应用进行米联投射</string>
+    <string name="disconnected_msg">设备连接中断，无法继续播放。</string>
+    <string name="no_network">"网络连接失败
+
+请到设置中检查网络是否正常"</string>
+    <string name="no_enough_space">"网络电台启动失败
+
+磁盘剩余空间小于1M，不能正常启动"</string>
+    <string name="try_music_320">超高品质音乐</string>
+    <string name="try_music_bitrate_320">320kbit/s</string>
+    <string name="try_music_192">普通品质音乐</string>
+    <string name="try_music_bitrate_192">128kbit/s</string>
+    <string name="try_music_song_320">男人歌</string>
+    <string name="try_music_singer_320">小沈阳 高进</string>
+    <string name="join_vip">加入会员</string>
+    <string name="renewals_vip">续费</string>
+    <string name="vip_channellist">音乐会员</string>
+    <string name="vip_productname">小米音乐会员</string>
+    <string name="vip_createorderfailed">创建订单失败，请重试</string>
+</resources>

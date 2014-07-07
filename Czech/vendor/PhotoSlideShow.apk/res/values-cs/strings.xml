@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OpenGL Slide Show</string>
+    <string name="menu_settings">Settings</string>
+    <string name="showtype_sliding">幻灯片</string>
+    <string name="showtype_gallerywall">照片墙</string>
+    <string name="receiving_photo_text">正在接收来自 %s 的照片</string>
+    <string name="default_device_name">手机</string>
+</resources>
