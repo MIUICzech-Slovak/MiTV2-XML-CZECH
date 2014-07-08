@@ -1,5 +1,4 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
 <resources>
   <string name="Import">Import</string>
   <string name="access_sd_fail">"Není možný přístup na SD kartu"</string>
@@ -88,7 +87,7 @@ Vystupte na chvíli ze zorného pole."</string>
   <string name="error_app_unsupported_raw">RAW formát není podporován s funkcí ZSL (okamžité závěrky)</string>
   <string name="exposure_time">Čas expozice</string>
   <string name="facelift">Zesvětlení tváře</string>
-   <string name="facetan">Ztmavení tváře</string>
+  <string name="facetan">Ztmavení tváře</string>
   <string name="fail_to_load">Nelze načíst</string>
   <string name="fail_to_load_image">Obrázek nelze načíst</string>
   <string name="file_size">Velikost souboru</string>

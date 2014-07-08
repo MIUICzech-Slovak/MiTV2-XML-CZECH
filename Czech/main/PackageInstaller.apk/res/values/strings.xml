@@ -1,5 +1,4 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
 <resources>
   <string name="Parse_error_dlg_text">There was a problem parsing the package.</string>
   <string name="Parse_error_dlg_title">Parse error</string>
