@@ -16,10 +16,10 @@
   <string name="network_error">Něco je špatně s vaší sítí, zkuste to prosím později.</string>
   <string name="no_new_version">Máte nejnovější verzi！</string>
   <string name="reboot_error">Aktualizace ovladače TV selhala, zkuste to znovu.</string>
-  <string name="reboot_tips">稍后会重启电视</string>
+  <string name="reboot_tips">Restartovat televizor později</string>
   <string name="rebooting">Ovladač TV byl aktualizován, bude automaticky restartován. Mějte strpení.</string>
   <string name="rebooting_now">Systém se restartujte, vyčkejte prosím.</string>
-  <string name="rebooting_tips">更新结束后将重启电视</string>
+  <string name="rebooting_tips">Po dokončení aktualizace restartujte televizor.</string>
   <string name="system_upgrade">Aktualizace</string>
   <string name="trunk_version">Stabilní verze</string>
   <string name="upgrade_done">Pro přechod na novou verzi je nutný restart.</string>
