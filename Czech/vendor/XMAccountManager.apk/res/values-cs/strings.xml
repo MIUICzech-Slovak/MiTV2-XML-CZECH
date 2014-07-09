@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="access_token_expired_warning">Weibo account has expired: please rebind</string>
-  <string name="access_token_invalid_warning">Weibo account is invalid: please rebind</string>
+  <string name="access_token_expired_warning">Účet Weibo vypršel. Přihlaste se znovu.</string>
+  <string name="access_token_invalid_warning">Účet Weibo je neplatný. Přihlaste se znovu.</string>
   <string name="account_bn_login">立即登录</string>
   <string name="account_bn_register">立即注册</string>
   <string name="account_bn_verify">获取验证码</string>
@@ -12,9 +12,9 @@
   <string name="account_error_verify_phonenumber">手机号码不正确</string>
   <string name="account_title">帐户管理</string>
   <string name="account_wrong_password">密码错误</string>
-  <string name="app_name">XiaomiAccount</string>
+  <string name="app_name">Xiaomi účet</string>
   <string name="attention">注意</string>
-  <string name="bind_sina_weibo">Bind with Sina Weibo</string>
+  <string name="bind_sina_weibo">Autorizovat Sina Weibo</string>
   <string name="cancel">取消</string>
   <string name="card_txt_login">登录</string>
   <string name="card_txt_register">注册</string>
@@ -52,7 +52,7 @@
   <string name="register_title">帐户注册</string>
   <string name="register_title_v2">注册小米帐户</string>
   <string name="register_verification">%s 收到的验证码</string>
-  <string name="service_error">Service error</string>
+  <string name="service_error">Chyba služby</string>
   <string name="success_login">登录成功</string>
   <string name="success_register">注册成功</string>
   <string name="verification_phonenumber_subscript">非中国大陆用户输入手机号码时请增加区域前缀</string>
