@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
 <resources>
     <string-array name="yahoo_uk">
         <item>Yahoo! UK &amp; Ireland</item>
@@ -844,16 +843,6 @@
         <item>@string/pref_link_prefetch_value_never</item>
         <item>@string/pref_link_prefetch_value_wifi_only</item>
         <item>@string/pref_link_prefetch_value_always</item>
-    </string-array>
-    <string-array name="pref_video_preload_choices">
-        <item>Never</item>
-        <item>Only on WiFi</item>
-        <item>Always</item>
-    </string-array>
-    <string-array name="pref_video_preload_values">
-        <item>@string/pref_video_preload_value_never</item>
-        <item>@string/pref_video_preload_value_wifi_only</item>
-        <item>@string/pref_video_preload_value_always</item>
     </string-array>
     <string-array name="bookmarks">
         <item>Google</item>

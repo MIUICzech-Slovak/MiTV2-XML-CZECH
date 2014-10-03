@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FactoryTest</string>
+    <string name="hdmi">HDMI测试</string>
+    <string name="spdif">SPDIF 测试</string>
+    <string name="autovideo">AUTOVIDEO 测试</string>
+    <string name="usbhost">USB Host 测试</string>
+    <string name="cvbs">CVBS 测试</string>
+    <string name="ir">红外遥控测试</string>
+    <string name="wifi">WIFI 测试</string>
+    <string name="keytest">KEYTEST 测试</string>
+    <string name="factorylauncher">Factory Test Mode</string>
+    <string name="hdmiresult">是否看到 “红 绿 蓝” 三种颜色？</string>
+    <string name="mediatest">MediaTest</string>
+    <string name="factorytextview">工厂测试模式</string>
+    <string name="scan_channel">scan channel</string>
+    <string name="select_channel">select channel</string>
+</resources>

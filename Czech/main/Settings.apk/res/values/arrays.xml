@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
 <resources>
     <string-array name="timezone_filters">
         <item>America</item>
@@ -24,7 +23,6 @@
         <item>5 minutes</item>
         <item>10 minutes</item>
         <item>30 minutes</item>
-        <item>never timeout</item>
     </string-array>
     <string-array name="screen_timeout_values">
         <item>15000</item>
@@ -34,7 +32,6 @@
         <item>300000</item>
         <item>600000</item>
         <item>1800000</item>
-        <item>-1</item>
     </string-array>
     <string-array name="dream_timeout_entries">
         <item>Never</item>
@@ -95,7 +92,11 @@
         <item>Slow</item>
         <item>Normal</item>
         <item>Fast</item>
+        <item>Faster</item>
         <item>Very fast</item>
+        <item>Rapid</item>
+        <item>Very rapid</item>
+        <item>Fastest</item>
     </string-array>
     <string-array name="tts_rate_values">
         <item>60</item>
@@ -103,6 +104,10 @@
         <item>100</item>
         <item>150</item>
         <item>200</item>
+        <item>250</item>
+        <item>300</item>
+        <item>350</item>
+        <item>400</item>
     </string-array>
     <string-array name="tts_pitch_entries">
         <item>Very low</item>
@@ -172,9 +177,9 @@
         <item>@string/wifi_security_psk_generic</item>
     </string-array>
     <string-array name="wifi_ap_security">
-        <item>Open</item>
-        <item>WPA PSK</item>
-        <item>WPA2 PSK</item>
+        <item>@string/wifi_security_none</item>
+        <item>@string/wifi_security_wpa</item>
+        <item>@string/wifi_security_wpa2</item>
     </string-array>
     <string-array name="wifi_eap_method">
         <item>PEAP</item>
@@ -242,6 +247,11 @@
         <item>TTLS</item>
         <item>PWD</item>
     </string-array>
+    <string-array name="wifi_peap_phase2_entries">
+        <item>None</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
     <string-array name="wifi_phase2_entries">
         <item>None</item>
         <item>PAP</item>
@@ -307,6 +317,18 @@
         <item>13</item>
         <item>0</item>
     </string-array>
+    <string-array name="mvno_type_entries">
+        <item>None</item>
+        <item>SPN</item>
+        <item>IMSI</item>
+        <item>GID</item>
+    </string-array>
+    <string-array name="mvno_type_values">
+        <item></item>
+        <item>spn</item>
+        <item>imsi</item>
+        <item>gid</item>
+    </string-array>
     <string-array name="app_install_location_entries">
         <item>Internal device storage</item>
         <item>Removable SD card</item>
@@ -316,6 +338,78 @@
         <item>device</item>
         <item>sdcard</item>
         <item>auto</item>
+    </string-array>
+    <string-array name="app_ops_categories">
+        <item>Location</item>
+        <item>Personal</item>
+        <item>Messaging</item>
+        <item>Device</item>
+    </string-array>
+    <string-array name="app_ops_summaries">
+        <item>coarse location</item>
+        <item>fine location</item>
+        <item>GPS</item>
+        <item>vibrate</item>
+        <item>read contacts</item>
+        <item>modify contacts</item>
+        <item>read call log</item>
+        <item>modify call log</item>
+        <item>read calendar</item>
+        <item>modify calendar</item>
+        <item>wi-fi scan</item>
+        <item>notification</item>
+        <item>cell scan</item>
+        <item>call phone</item>
+        <item>read SMS</item>
+        <item>write SMS</item>
+        <item>receive SMS</item>
+        <item>receive emergency SMS</item>
+        <item>receive MMS</item>
+        <item>receive WAP push</item>
+        <item>send SMS</item>
+        <item>read ICC SMS</item>
+        <item>write ICC SMS</item>
+        <item>modify settings</item>
+        <item>draw on top</item>
+        <item>access notifications</item>
+        <item>camera</item>
+        <item>record audio</item>
+        <item>play audio</item>
+        <item>read clipboard</item>
+        <item>modify clipboard</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+        <item>Location</item>
+        <item>Location</item>
+        <item>Location</item>
+        <item>Vibrate</item>
+        <item>Read contacts</item>
+        <item>Modify contacts</item>
+        <item>Read call log</item>
+        <item>Modify call log</item>
+        <item>Read calendar</item>
+        <item>Modify calendar</item>
+        <item>Location</item>
+        <item>Post notification</item>
+        <item>Location</item>
+        <item>Call phone</item>
+        <item>Receive SMS/MMS</item>
+        <item>Send SMS/MMS</item>
+        <item>Receive SMS/MMS</item>
+        <item>Receive SMS/MMS</item>
+        <item>Receive SMS/MMS</item>
+        <item>Receive SMS/MMS</item>
+        <item>Send SMS/MMS</item>
+        <item>Receive SMS/MMS</item>
+        <item>Send SMS/MMS</item>
+        <item>Modify settings</item>
+        <item>Draw on top</item>
+        <item>Access notifications</item>
+        <item>Camera</item>
+        <item>Record audio</item>
+        <item>Play audio</item>
+        <item>Read clipboard</item>
+        <item>Modify clipboard</item>
     </string-array>
     <string-array name="long_press_timeout_selector_titles">
         <item>Short</item>
@@ -396,6 +490,54 @@
         <item>5</item>
         <item>10</item>
     </string-array>
+    <string-array name="overlay_display_devices_entries">
+        <item>None</item>
+        <item>720x480 mdpi</item>
+        <item>1280x720 tvdpi</item>
+        <item>1920x1080 xhdpi</item>
+        <item>1280x720 tvdpi and 1920x1080 xhdpi</item>
+    </string-array>
+    <string-array name="overlay_display_devices_values">
+        <item></item>
+        <item>720x480/160</item>
+        <item>1280x720/213</item>
+        <item>1920x1080/320</item>
+        <item>1280x720/213;1920x1080/320</item>
+    </string-array>
+    <string-array name="enable_opengl_traces_entries">
+        <item>None</item>
+        <item>Logcat</item>
+        <item>Systrace (Graphics)</item>
+        <item>Call stack on glGetError</item>
+    </string-array>
+    <string-array name="enable_opengl_traces_values">
+        <item>0</item>
+        <item>1</item>
+        <item>systrace</item>
+        <item>error</item>
+    </string-array>
+    <string-array name="show_non_rect_clip_entries">
+        <item>Off</item>
+        <item>Draw non-rectangular clip region in blue</item>
+        <item>Highlight tested drawing commands in green</item>
+    </string-array>
+    <string-array name="show_non_rect_clip_values">
+        <item>hide</item>
+        <item>region</item>
+        <item>highlight</item>
+    </string-array>
+    <string-array name="track_frame_time_entries">
+        <item>Off</item>
+        <item>On screen as bars</item>
+        <item>On screen as lines</item>
+        <item>In adb shell dumpsys gfxinfo</item>
+    </string-array>
+    <string-array name="track_frame_time_values">
+        <item>false</item>
+        <item>visual_bars</item>
+        <item>visual_lines</item>
+        <item>true</item>
+    </string-array>
     <string-array name="app_process_limit_entries">
         <item>Standard limit</item>
         <item>No background processes</item>
@@ -450,40 +592,10 @@
         <item>2</item>
         <item>1</item>
     </string-array>
-    <string-array name="multi_sim_entries">
-        <item>Subscription 1</item>
-        <item>Subscription 2</item>
-    </string-array>
-    <string-array name="multi_sim_summaries">
-        <item>Subscription 1</item>
-        <item>Subscription 2</item>
-    </string-array>
-    <string-array name="multi_sim_values">
-        <item>0</item>
-        <item>1</item>
-    </string-array>
-    <string-array name="multi_sim_entries_voice">
-        <item>Subscription 1</item>
-        <item>Subscription 2</item>
-        <item>Prompt</item>
-    </string-array>
-    <string-array name="multi_sim_summaries_voice">
-        <item>Subscription 1</item>
-        <item>Subscription 2</item>
-        <item>Prompt User</item>
-    </string-array>
-    <string-array name="multi_sim_values_voice">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-    </string-array>
-    <string-array name="multi_sim_entries_voice_without_prompt">
-        <item>Subscription 1</item>
-        <item>Subscription 2</item>
-    </string-array>
-    <string-array name="multi_sim_values_voice_without_prompt">
-        <item>0</item>
-        <item>1</item>
+    <string-array name="security_settings_premium_sms_values">
+        <item>Ask</item>
+        <item>Never allow</item>
+        <item>Always allow</item>
     </string-array>
     <string-array name="input_method_selector_titles">
         <item>@string/input_method_selector_show_automatically_title</item>
@@ -494,5 +606,16 @@
         <item>@string/input_method_selector_show_automatically_value</item>
         <item>@string/input_method_selector_always_show_value</item>
         <item>@string/input_method_selector_always_hide_value</item>
+    </string-array>
+    <string-array name="network_security">
+        <item>PSK</item>
+        <item>WEP</item>
+        <item>802.1X</item>
+        <item>无</item>
+    </string-array>
+    <string-array name="wifi_tether_security">
+        <item>无</item>
+        <item>WPA PSK</item>
+        <item>WPA2 PSK</item>
     </string-array>
 </resources>

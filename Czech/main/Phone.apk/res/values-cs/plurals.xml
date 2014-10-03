@@ -1,16 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
 <resources>
     <plurals name="phone_in_ecm_notification_time">
-        <item quantity="other">Žádné datové připojení po dobu %s minuty</item>
-        <item quantity="one">Žádné datové připojení po dobu %s minut</item>
+        <item quantity="other">Žádné datové připojení po dobu %s min</item>
+        <item quantity="one">Žádné datové připojení po dobu %s min</item>
     </plurals>
     <plurals name="alert_dialog_exit_ecm">
-        <item quantity="other">Telefon bude v režimu zpětného nouzového (SOS) volání po dobu %s minuty. Zrušit?</item>
-        <item quantity="one">Telefon bude v režimu zpětného nouzového (SOS) volání po dobu %s minut. Zrušit?</item>
+        <item quantity="other">Telefon bude v režimu tísňového zpětného volání po dobu %s minut. Dokud je telefon v tomto režimu, nelze použít žádnou aplikaci, která využívá datové připojení. Chcete tento režim ukončit?</item>
+        <item quantity="one">Telefon bude v režimu tísňového zpětného volání po dobu %s minuty. Dokud je telefon v tomto režimu, nelze použít žádnou aplikaci, která využívá datové připojení. Chcete tento režim ukončit?</item>
     </plurals>
     <plurals name="alert_dialog_not_avaialble_in_ecm">
-        <item quantity="other">Tato volba není dostupná v režimu nouzového (SOS) volání. Telefon bude v tomto režimu %s minutu. Zrušit?</item>
-        <item quantity="one">Tato volba není dostupná v režimu nouzového (SOS) volání. Telefon bude v tomto režimu %s minuty. Zrušit?</item>
+        <item quantity="other">Vybraná akce není v režimu tísňového zpětného volání dostupná. Telefon bude v tomto režimu po dobu %s minut. Chcete tento režim nyní ukončit?</item>
+        <item quantity="one">Vybraná akce není v režimu tísňového zpětného volání dostupná. Telefon bude v tomto režimu po dobu %s minuty. Chcete aplikaci nyní ukončit?</item>
     </plurals>
 </resources>

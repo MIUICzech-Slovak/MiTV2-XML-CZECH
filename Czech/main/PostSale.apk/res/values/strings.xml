@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PostSale</string>
+    <string name="wbUpdate">WhiteBalanceUpdate</string>
+    <string name="action_settings">Settings</string>
+    <string name="norm_redgain">Normal Rgain:</string>
+    <string name="norm_greengain">Normal Ggain:</string>
+    <string name="norm_bluegain">Normal Bgain:</string>
+    <string name="norm_redoffset">Normal Roffs:</string>
+    <string name="norm_greenoffset">Normal Goffs:</string>
+    <string name="norm_blueoffset">Normal Boffs:</string>
+    <string name="warm_redgain">Warm Rgain:</string>
+    <string name="warm_greengain">Warm Ggain:</string>
+    <string name="warm_bluegain">Warm Bgain:</string>
+    <string name="warm_redoffset">Warm Roffs:</string>
+    <string name="warm_greenoffset">Warm Goffs:</string>
+    <string name="warm_blueoffset">Warm Boffs:</string>
+    <string name="cool_redgain">Cool Rgain:</string>
+    <string name="cool_greengain">Cool Ggain:</string>
+    <string name="cool_bluegain">Cool Bgain:</string>
+    <string name="cool_redoffset">Cool Roffs:</string>
+    <string name="cool_greenoffset">Cool Goffs:</string>
+    <string name="cool_blueoffset">Cool Boffs:</string>
+    <string name="wbSaveButton">Save And Execute</string>
+    <string name="invalid_input">It is not valid value. Please make sure that the value is between 700 and 1400.</string>
+    <string name="activity_title">WhiteBalanceInfo</string>
+</resources>

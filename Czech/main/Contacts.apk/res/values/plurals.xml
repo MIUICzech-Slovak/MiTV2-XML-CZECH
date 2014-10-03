@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
 <resources>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">%d found</item>
+        <item quantity="one">1 found</item>
+    </plurals>
     <plurals name="listTotalPhoneContacts">
         <item quantity="other">%d contacts with phone numbers</item>
         <item quantity="one">1 contact with phone number</item>
@@ -10,10 +13,6 @@
         <item quantity="one">1 contact</item>
     </plurals>
     <plurals name="listFoundAllContacts">
-        <item quantity="other">%d found</item>
-        <item quantity="one">1 found</item>
-    </plurals>
-    <plurals name="searchFoundContacts">
         <item quantity="other">%d found</item>
         <item quantity="one">1 found</item>
     </plurals>
@@ -32,9 +31,5 @@
     <plurals name="group_list_num_contacts_in_group">
         <item quantity="other">%1$d people</item>
         <item quantity="one">%1$d person</item>
-    </plurals>
-    <plurals name="notification_voicemail_title">
-        <item quantity="other">%1$d Voicemails</item>
-        <item quantity="one">Voicemail</item>
     </plurals>
 </resources>
