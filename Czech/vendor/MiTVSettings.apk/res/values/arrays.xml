@@ -1,93 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="wifi_status">
-        <item></item>
-        <item>正在扫描...</item>
-        <item>正在连接...</item>
-        <item>正在进行身份验证...</item>
-        <item>正在获取 IP 地址...</item>
-        <item>已连接</item>
-        <item>已暂停</item>
-        <item>正在断开连接...</item>
-        <item>已断开连接</item>
-        <item>失败</item>
-        <item>已阻止</item>
-        <item>暂时关闭状况不佳的连接</item>
-    </string-array>
-    <string-array name="wifi_status_with_ssid">
-        <item></item>
-        <item>正在扫描...</item>
-        <item>正在连接到 %1$s...</item>
-        <item>正在通过 %1$s 进行身份验证...</item>
-        <item>正在从 %1$s 获取 IP 地址...</item>
-        <item>已连接到 %1$s</item>
-        <item>已暂停</item>
-        <item>正在断开与 %1$s 的连接...</item>
-        <item>已断开连接</item>
-        <item>失败</item>
-        <item>已阻止</item>
-        <item>暂时关闭状况不佳的连接</item>
-    </string-array>
-    <string-array name="wifi_eap_method">
-        <item>PEAP</item>
-        <item>TLS</item>
-        <item>TTLS</item>
-    </string-array>
-    <string-array name="wifi_p2p_wps_setup">
-        <item>按钮</item>
-        <item>从对等设备获取的 PIN</item>
-        <item>从此设备生成的 PIN</item>
-    </string-array>
-    <string-array name="wifi_p2p_status">
-        <item>已连接</item>
-        <item>已邀请</item>
-        <item>失败</item>
-        <item>可用</item>
-        <item>超出范围</item>
-    </string-array>
-    <string-array name="wifi_signal">
-        <item>弱</item>
-        <item>一般</item>
-        <item>较强</item>
-        <item>强</item>
-    </string-array>
-    <string-array name="wifi_eap_entries">
-        <item>PEAP</item>
-        <item>TLS</item>
-        <item>TTLS</item>
-    </string-array>
-    <string-array name="wifi_phase2_entries">
-        <item>无</item>
-        <item>PAP</item>
-        <item>MSCHAP</item>
-        <item>MSCHAPV2</item>
-        <item>GTC</item>
-    </string-array>
-    <string-array name="wifi_network_setup">
-        <item>关闭</item>
-        <item>按钮</item>
-        <item>从接入点获取的 PIN</item>
-        <item>从此设备生成的 PIN</item>
-    </string-array>
-    <string-array name="wifi_ip_settings">
-        <item>DHCP</item>
-        <item>静态</item>
-    </string-array>
-    <string-array name="wifi_proxy_settings">
-        <item>无</item>
-        <item>手动</item>
-    </string-array>
-    <string-array name="wifi_security">
-        <item>802.1X</item>
-        <item>PSK</item>
-        <item>WEP</item>
-        <item>无</item>
-    </string-array>
     <string-array name="device_names">
-        <item>客厅电视</item>
-        <item>主卧电视</item>
-        <item>次卧电视</item>
-        <item>书房电视</item>
+        <item>客厅的小米电视</item>
+        <item>主卧的小米电视</item>
+        <item>次卧的小米电视</item>
+        <item>书房的小米电视</item>
         <item>自定义</item>
     </string-array>
     <string-array name="sleep_policy">
@@ -104,6 +21,7 @@
     </integer-array>
     <string-array name="screensaver_policy">
         <item>关闭</item>
+        <item>1分钟</item>
         <item>4分钟</item>
         <item>8分钟</item>
         <item>12分钟</item>
@@ -128,6 +46,7 @@
     </integer-array>
     <integer-array name="screensaver_policy_values">
         <item>0</item>
+        <item>1</item>
         <item>4</item>
         <item>8</item>
         <item>12</item>
@@ -166,16 +85,6 @@
         <item>标准</item>
         <item>暖</item>
     </string-array>
-    <string-array name="sound_profile">
-        <item>标准模式</item>
-        <item>电影模式</item>
-        <item>语音模式</item>
-    </string-array>
-    <string-array name="sound_profile_desc">
-        <item>所有场景下的通用声音模式</item>
-        <item>还原电影院的声场效果</item>
-        <item>可以增强人声的声音模式</item>
-    </string-array>
     <string-array name="sound_input">
         <item>蓝牙</item>
         <item>spdif</item>
@@ -196,11 +105,13 @@
     </string-array>
     <string-array name="xiaomi_sound_output">
         <item>电视扬声器</item>
-        <item>小米家庭影院</item>
+        <item>小米家庭音响</item>
+        <item>外部扬声器</item>
     </string-array>
     <string-array name="xiaomi_sound_output_desc">
         <item>声音通过电视喇叭输出</item>
         <item>电视连接小米的家庭影院</item>
+        <item>声音通过音响、功放等输出</item>
     </string-array>
     <string-array name="soundBar_customize">
         <item>高频</item>
@@ -208,9 +119,13 @@
         <item>低频</item>
         <item>超低频</item>
     </string-array>
-    <string-array name="SPDIF">
+    <string-array name="SPDIF1">
         <item>PCM</item>
         <item>Raw Data</item>
+        <item>关闭</item>
+    </string-array>
+    <string-array name="SPDIF2">
+        <item>PCM</item>
         <item>关闭</item>
     </string-array>
     <string-array name="acoustics">
@@ -223,30 +138,17 @@
         <item>数字音频未解压输出(5.1声道)</item>
         <item>模拟音频输出时，选择关闭</item>
     </string-array>
+    <string-array name="priority">
+        <item>蓝牙优先</item>
+        <item>后接入优先</item>
+    </string-array>
     <string-array name="recovery_retain">
         <item>保留</item>
         <item>不保留</item>
     </string-array>
-    <string-array name="child_lock_policy">
-        <item>关闭</item>
-        <item>开启</item>
-    </string-array>
-    <string-array name="num_of_questions">
-        <item>5道题</item>
-        <item>10道题</item>
-    </string-array>
-    <string-array name="variety_of_questions">
-        <item>数学</item>
-    </string-array>
-    <string-array name="level_of_questions">
-        <item>入门</item>
-        <item>中级</item>
-        <item>高级</item>
-    </string-array>
-    <string-array name="bluetooth_visibility_timeout_entries">
-        <item>2 分钟</item>
-        <item>5 分钟</item>
-        <item>1 小时</item>
-        <item>永不超时</item>
+    <string-array name="box_sound_output">
+        <item>模拟音频输出</item>
+        <item>S/PDIF-PCM</item>
+        <item>S/PDIF-Raw</item>
     </string-array>
 </resources>

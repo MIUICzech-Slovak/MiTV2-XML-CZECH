@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="phonename_default">Mi-Link Device</string>
+    <string name="xiaomi_default">MI-ONE</string>
+    <string name="xiaomi_1">MI-ONE</string>
+    <string name="xiaomi_1s">MI-ONE 1S</string>
+    <string name="xiaomi_2">MI-TWO</string>
+</resources>

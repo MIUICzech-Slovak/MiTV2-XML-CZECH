@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MiUtilRes</string>
+    <string name="mitv_framework_res_global_ok">确定</string>
+    <string name="mitv_framework_res_global_cancel">取消</string>
+    <string name="mitv_framework_res_global_neutral">放弃</string>
+    <string name="mitv_framework_res_global_attention">注意</string>
+</resources>
