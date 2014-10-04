@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">0.0dip</dimen>
+    <dimen name="activity_vertical_margin">0.0dip</dimen>
+    <dimen name="fragment_main_user_history_width">100.0dip</dimen>
+    <dimen name="fragment_main_user_bookmarks_width">150.0dip</dimen>
+    <dimen name="fragment_main_purchase_records_width">140.0dip</dimen>
+    <dimen name="user_history_title_left">0.0px</dimen>
+    <dimen name="user_history_title_width">95.0dip</dimen>
+    <dimen name="icon_movie_width">169.0px</dimen>
+    <dimen name="icon_tv_width">120.0px</dimen>
+</resources>

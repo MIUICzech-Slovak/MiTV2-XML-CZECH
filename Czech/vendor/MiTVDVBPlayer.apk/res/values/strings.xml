@@ -168,4 +168,9 @@
     <string name="sound_mode_off">关闭</string>
     <string name="sound_mode_music">音乐模式</string>
     <string name="sound_mode_moview">影院模式</string>
+    <string name="episode_index">第%1$d集</string>
+    <string name="actors">主演</string>
+    <string name="host">主持</string>
+    <string name="play">播放</string>
+    <string name="variety_episode">期</string>
 </resources>

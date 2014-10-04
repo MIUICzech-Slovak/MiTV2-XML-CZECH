@@ -4,8 +4,8 @@
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
     <string name="menu_settings">Settings</string>
-    <string name="showtype_sliding">幻灯片</string>
-    <string name="showtype_gallerywall">照片墙</string>
-    <string name="receiving_photo_text">正在接收来自 %s 的照片</string>
-    <string name="default_device_name">手机</string>
+    <string name="showtype_sliding">Slideshow</string>
+    <string name="showtype_gallerywall">Photo Wall</string>
+    <string name="receiving_photo_text">Receiving photos from %s</string>
+    <string name="default_device_name">Mobile phone</string>
 </resources>

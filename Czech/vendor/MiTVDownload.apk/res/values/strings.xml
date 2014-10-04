@@ -32,6 +32,8 @@ CONTENT"</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
     <string name="xunlei_download_title">迅雷远程下载</string>
+    <string name="xunlei_downloaded_title">已下载</string>
+    <string name="xunlei_downloading_title">正在下载</string>
     <string name="xunlei_download_button_start">开始使用</string>
     <string name="xunlei_download_button_help">了解更多</string>
     <string name="xunlei_download_button_directory">进入下载目录</string>
@@ -81,4 +83,62 @@ CONTENT"</string>
  3. 点击扫一扫后，扫描左侧的二维码，即可完成绑定"</string>
     <string name="qq_page1_info_caution">* 目前只支持腾讯独播视频的远程下载</string>
     <string name="baidu_cloud_name">百度云</string>
+    <string name="bind_xunlei_ok">已经成功绑定迅雷帐号</string>
+    <string name="bind_xunlei_ok_xunlei">迅雷帐号 %1$s 已和设备绑定成功</string>
+    <string name="bind_xunlei_ok_xiaomi">小米帐号 %1$s 已和设备绑定成功</string>
+    <string name="bind_xunlei_download_tips">通过以下三种途径新建下载任务</string>
+    <string name="bind_xunlei_download_tips_web">迅雷远程下载网页</string>
+    <string name="bind_xunlei_download_tips_pc">迅雷PC客户端</string>
+    <string name="bind_xunlei_download_tips_app">迅雷影音APP</string>
+    <string name="bind_xunlei_button_enter">查看所有视频</string>
+    <string name="bind_xunlei_button_unbind">解除绑定</string>
+    <string name="bind_xunlei_button_help">查看下载帮助</string>
+    <string name="select_login_xm_ok">检测到您已经登录到小米账户</string>
+    <string name="select_login_select_tips">用小米或迅雷账户绑定设备，绑定后可登录迅雷使用远程下载</string>
+    <string name="select_login_xiaomi">用当前小米账户绑定</string>
+    <string name="select_login_xunlei">登录迅雷帐户绑定</string>
+    <string name="xunlei_error_msg_common">服务器错误，请稍后重试</string>
+    <string name="xunlei_error_msg_auth">获取帐号信息失败，请稍后重试</string>
+    <string name="login_desc_for_xunlei">登录小米账户,马上下载高清大片</string>
+    <string name="xunlei_disk_tips_tv">请确认小米电视已经连接NTFS格式的U盘或移动硬盘</string>
+    <string name="xunlei_disk_tips_box">请确认小米盒子已经连接NTFS格式的U盘或移动硬盘</string>
+    <string name="disk_not_found_title">请插入 U盘或移动硬盘 开始下载</string>
+    <string name="disk_not_found_info1">请接入NTFS格式的U盘或移动硬盘以开始下载</string>
+    <string name="disk_not_found_info2">请接入NTFS格式的U盘，TF卡或移动硬盘以开始下载</string>
+    <string name="disk_not_found_btn">稍后再说</string>
+    <string name="xl_service_stop_title">远程下载服务已停止</string>
+    <string name="xl_service_stop_info">已下载视频在 &lt;font color=#0096ff>高清播放器>视频&lt;/font> 下可查看</string>
+    <string name="xl_service_stop_back_hint">&lt;font color=#0096ff>%d&lt;/font> 秒后自动返回首页</string>
+    <string name="xl_service_popup_ok">确认</string>
+    <string name="xl_service_popup_cancel">取消</string>
+    <string name="xl_service_popup_title">确认停止远程下载服务?</string>
+    <string name="xl_service_popup_info">停止后将不能再继续使用迅雷远程下载</string>
+    <string name="attention">注意</string>
+    <string name="xunlei_card_text1">正在下载</string>
+    <string name="xunlei_card_text2">已下载</string>
+    <string name="xunlei_card_text3">下载帮助</string>
+    <string name="xunlei_card_text4">下载设置</string>
+    <string name="xunlei_card_title1">您可使用迅雷帐户 %s 登陆迅雷新建下载任务</string>
+    <string name="xunlei_card_title2">您可使用小米帐户 %s 登陆迅雷新建下载任务</string>
+    <string name="xunlei_card_unbind_title1">您的账号已与本设备解除绑定</string>
+    <string name="xunlei_card_unbind_title2">重新进入远程下载即可再次绑定</string>
+    <string name="xunlei_card_num">共%d个</string>
+    <string name="xunlei_pause_all">全部暂停</string>
+    <string name="xunlei_resume_all">恢复下载</string>
+    <string name="xunlei_pausing">正在暂停</string>
+    <string name="xunlei_resuming">正在恢复</string>
+    <string name="xunlei_download_speed">下载速度</string>
+    <string name="xunlei_remain_time">剩余时间</string>
+    <string name="xunlei_downloading_wait">等待中</string>
+    <string name="xunlei_downloading_pause">已暂停</string>
+    <string name="xunlei_downloading_fail">下载失败</string>
+    <string name="xunlei_downloading_no_item_title">当前暂无下载任务</string>
+    <string name="xunlei_downloading_no_item_info">请到迅雷影音APP或迅雷远程下载网页新建下载任务</string>
+    <string name="xunlei_download_no_task_help">下载帮助</string>
+    <string name="xunlei_start_page_title">迅雷远程下载</string>
+    <string name="xunlei_start_page_info">高清大片、免费极速下载!</string>
+    <string name="xunlei_start_page_btn">开始下载</string>
+    <string name="xunlei_stop_service_btn">停用</string>
+    <string name="xunlei_stop_service_title">停用远程下载服务</string>
+    <string name="xunlei_stop_service_info">已下载的视频将保留在 &lt;font color=#0096ff>视频&lt;/font> 中</string>
 </resources>

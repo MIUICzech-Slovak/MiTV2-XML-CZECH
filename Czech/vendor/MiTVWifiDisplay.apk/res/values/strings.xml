@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Wifi Display</string>
+    <string name="app_name">Wireless Display</string>
     <string name="wait_for_connection">%s waiting for connection…</string>
     <string name="disabling_wifi">Shutting down Wi-Fi…</string>
     <string name="wifi_disabled">Wi-Fi shut down</string>
     <string name="starting_wfd">Starting Wi-Fi Display…</string>
     <string name="wfd_started">Wi-Fi Display started</string>
     <string name="peer_connecting">Connecting %s…</string>
+    <string name="peer_disconnecting">Disconnecting %s…</string>
     <string name="peer_connected">%s connected</string>
     <string name="peer_connect_error">Connection error, please retry</string>
     <string name="peer_disconnected">Disconnecting</string>

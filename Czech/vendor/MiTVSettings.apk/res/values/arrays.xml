@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="device_names">
-        <item>客厅的小米电视</item>
-        <item>主卧的小米电视</item>
-        <item>次卧的小米电视</item>
-        <item>书房的小米电视</item>
-        <item>自定义</item>
+        <item>Mi TV - Living room</item>
+        <item>Mi TV - Bedroom</item>
+        <item>Mi TV - Guest room</item>
+        <item>Mi TV - Study room</item>
+        <item>Customise</item>
     </string-array>
     <string-array name="sleep_policy">
-        <item>30分钟</item>
-        <item>60分钟</item>
-        <item>120分钟</item>
-        <item>永不休眠</item>
+        <item>30 minutes</item>
+        <item>60 minutes</item>
+        <item>120 minutes</item>
+        <item>Never</item>
     </string-array>
     <integer-array name="sleep_policy_values">
         <item>30</item>
@@ -20,13 +20,13 @@
         <item>-1</item>
     </integer-array>
     <string-array name="screensaver_policy">
-        <item>关闭</item>
-        <item>1分钟</item>
-        <item>4分钟</item>
-        <item>8分钟</item>
-        <item>12分钟</item>
+        <item>Off</item>
+        <item>1 minute</item>
+        <item>4 minutes</item>
+        <item>8 minutes</item>
+        <item>12 minutes</item>
     </string-array>
-    <string-array name="tv_preview_policy">
+    <string-array name="tv2_preview_policy">
         <item>TV</item>
         <item>AV</item>
         <item>HDMI1</item>
@@ -35,7 +35,7 @@
         <item>VGA</item>
         <item>DTMB</item>
     </string-array>
-    <integer-array name="tv_preview_policy_values">
+    <integer-array name="tv2_preview_policy_values">
         <item>0</item>
         <item>1</item>
         <item>2</item>
@@ -43,6 +43,20 @@
         <item>5</item>
         <item>4</item>
         <item>7</item>
+    </integer-array>
+    <string-array name="tv1_preview_policy">
+        <item>TV</item>
+        <item>AV</item>
+        <item>HDMI1</item>
+        <item>HDMI2</item>
+        <item>VGA</item>
+    </string-array>
+    <integer-array name="tv1_preview_policy_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
     </integer-array>
     <integer-array name="screensaver_policy_values">
         <item>0</item>
@@ -52,41 +66,41 @@
         <item>12</item>
     </integer-array>
     <string-array name="display_sound_profile">
-        <item>标准模式</item>
-        <item>用户模式</item>
-        <item>显示模式</item>
-        <item>电影模式</item>
-        <item>游戏模式</item>
-        <item>艳丽模式</item>
-        <item>运动模式</item>
-        <item>显示器模式</item>
+        <item>Standard</item>
+        <item>User</item>
+        <item>Display</item>
+        <item>Cinema</item>
+        <item>Game</item>
+        <item>Enhance</item>
+        <item>Sport</item>
+        <item>Monitor</item>
     </string-array>
     <string-array name="display_sound_profile_desc">
-        <item>所有场景下的通用画面和音质模式</item>
-        <item>用户自定义自己喜欢的图像模式</item>
-        <item>显示模式</item>
-        <item>最大还原电影院胶片投影的颗粒视觉观感</item>
-        <item>游戏模式</item>
-        <item>用于展示、演示等需要艳丽图像显示的场景下使用</item>
-        <item>减少高速运动时画面所产生的拖影</item>
-        <item>连接电脑、小米盒子时可选用此模式</item>
+        <item>Standard image and audio</item>
+        <item>Use custom display settings</item>
+        <item>Optimised for display use</item>
+        <item>Recover film texture on screen</item>
+        <item>Optimised for gaming</item>
+        <item>Best for colourful images</item>
+        <item>Reduces blur for rapid movements</item>
+        <item>Optimised for computer monitors</item>
     </string-array>
     <string-array name="display_parameters">
-        <item>亮度</item>
-        <item>对比度</item>
-        <item>饱和度</item>
-        <item>清晰度</item>
-        <item>色调</item>
-        <item>色温</item>
-        <item>背光</item>
+        <item>Brightness</item>
+        <item>Contrast</item>
+        <item>Saturation</item>
+        <item>Clarity</item>
+        <item>Hue</item>
+        <item>Temperature</item>
+        <item>Backlight</item>
     </string-array>
     <string-array name="display_color_temperatures">
-        <item>冷</item>
-        <item>标准</item>
-        <item>暖</item>
+        <item>Cold</item>
+        <item>Standard</item>
+        <item>Warm</item>
     </string-array>
     <string-array name="sound_input">
-        <item>蓝牙</item>
+        <item>Bluetooth</item>
         <item>spdif</item>
         <item>aux</item>
     </string-array>
@@ -96,58 +110,58 @@
         <item>SPDIF</item>
     </string-array>
     <string-array name="sound_output">
-        <item>电视扬声器</item>
-        <item>外部扬声器</item>
+        <item>TV speaker</item>
+        <item>External speaker</item>
     </string-array>
     <string-array name="sound_output_desc">
-        <item>声音通过电视喇叭输出</item>
-        <item>声音通过音响、功放等输出</item>
+        <item>TV speaker output</item>
+        <item>External speaker output</item>
     </string-array>
     <string-array name="xiaomi_sound_output">
-        <item>电视扬声器</item>
-        <item>小米家庭音响</item>
-        <item>外部扬声器</item>
+        <item>TV speaker</item>
+        <item>Mi Home audio</item>
+        <item>External speaker</item>
     </string-array>
     <string-array name="xiaomi_sound_output_desc">
-        <item>声音通过电视喇叭输出</item>
-        <item>电视连接小米的家庭影院</item>
-        <item>声音通过音响、功放等输出</item>
+        <item>TV speaker</item>
+        <item>Mi Home audio</item>
+        <item>External speaker</item>
     </string-array>
     <string-array name="soundBar_customize">
-        <item>高频</item>
-        <item>中频</item>
-        <item>低频</item>
-        <item>超低频</item>
+        <item>High frequency</item>
+        <item>Medium frequency</item>
+        <item>Low frequency</item>
+        <item>Ultra low frequency</item>
     </string-array>
     <string-array name="SPDIF1">
         <item>PCM</item>
         <item>Raw Data</item>
-        <item>关闭</item>
+        <item>Disable</item>
     </string-array>
     <string-array name="SPDIF2">
-        <item>PCM</item>
-        <item>关闭</item>
+        <item>Disable</item>
+        <item>Enable</item>
     </string-array>
     <string-array name="acoustics">
-        <item>平衡</item>
-        <item>清晰</item>
-        <item>强劲</item>
+        <item>Balance</item>
+        <item>Clear</item>
+        <item>Strong</item>
     </string-array>
     <string-array name="SPDIF_desc">
-        <item>数字音频解压后输出(双声道)</item>
-        <item>数字音频未解压输出(5.1声道)</item>
-        <item>模拟音频输出时，选择关闭</item>
+        <item>2-channel</item>
+        <item>5.1-channel</item>
+        <item>Turn off for analog audio</item>
     </string-array>
     <string-array name="priority">
-        <item>蓝牙优先</item>
-        <item>后接入优先</item>
+        <item>Bluetooth first</item>
+        <item>Recent device first</item>
     </string-array>
     <string-array name="recovery_retain">
-        <item>保留</item>
-        <item>不保留</item>
+        <item>Keep</item>
+        <item>Delete</item>
     </string-array>
     <string-array name="box_sound_output">
-        <item>模拟音频输出</item>
+        <item>Analog audio</item>
         <item>S/PDIF-PCM</item>
         <item>S/PDIF-Raw</item>
     </string-array>

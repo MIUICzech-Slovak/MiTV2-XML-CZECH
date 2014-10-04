@@ -12,4 +12,5 @@
     <string name="dlna_upnp_service_name">UPNP Service</string>
     <string name="tv_notification_title">我发现你了</string>
     <string name="tv_notification_content">附近有DLNA设备，可投屏互动（使用一次投屏功能此通知将不再提示）</string>
+    <string name="dlna_device">DLNA device</string>
 </resources>
