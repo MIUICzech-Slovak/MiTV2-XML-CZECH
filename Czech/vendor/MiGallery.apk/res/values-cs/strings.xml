@@ -1,4 +1,7 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="app_name">高清画报</string>
+    <string name="app_name">Fashion Illustrated</string>
+    <string name="title_activity_player">4kPlayer</string>
+    <string name="p2pVersion">1</string>
+    <string name="p2pSubVersion">3</string>
 </resources>
