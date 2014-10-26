@@ -1,11 +1,11 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="album_quota_fulfiled">"Nelze vytvořit album. Počet alb přesáhnul limit."</string>
-    <string name="album_share_kicked">%1$s je zamknutý.</string>
+    <string name="album_share_kicked">Odebráno z alba: %1$s</string>
     <string name="app_name">Cloudová alba</string>
     <string name="cancel">Zrušit</string>
-    <string name="clients_format">分享人(%1$s人)</string>
-    <string name="cloud_camera_display_name">Fotografie</string>
+    <string name="clients_format">分享人(%1$s lidí)</string>
+    <string name="cloud_camera_display_name">Kamera</string>
     <string name="cloud_screenshots_display_name">Screenshoty</string>
     <string name="dissolve">Zahodit</string>
     <string name="dissovle_desc2">确认解除%1$s与此相册的分享关系？</string>
