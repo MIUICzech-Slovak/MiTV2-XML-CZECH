@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="phonename_default">Mi-Link Device</string>
+    <string name="phonename_default">Mi-Link zařízení</string>
     <string name="xiaomi_default">MI-ONE</string>
     <string name="xiaomi_1">MI-ONE</string>
     <string name="xiaomi_1s">MI-ONE 1S</string>
-    <string name="xiaomi_2">MI-TWO</string>
-    <string name="airkan_app_name">Mi-Link(Airkan/DLNA/Airplay) Services</string>
-    <string name="airkan_activity_name">Airkan TV Manager</string>
+    <string name="xiaomi_2">MI2</string>
+    <string name="airkan_app_name">Mi-Link(Airkan/DLNA/Airplay) služby</string>
+    <string name="airkan_activity_name">Airkan TV manažer</string>
     <string name="playerservice_name">Airkan TV Player Service</string>
     <string name="airkan_daemon_name">Airkan TV Daemon</string>
     <string name="rc_daemon_name">Remote Controller TV Daemon</string>
