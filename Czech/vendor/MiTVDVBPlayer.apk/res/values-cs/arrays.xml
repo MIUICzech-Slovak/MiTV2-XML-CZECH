@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="scene_mode">
-        <item>标准模式</item>
-        <item>电影模式</item>
-        <item>艳丽模式</item>
-        <item>运动模式</item>
-        <item>自定义模式</item>
+        <item>Standardní režim</item>
+        <item>Filmový režim</item>
+        <item>Živý režim</item>
+        <item>Sportovní režim</item>
+        <item>Vlastní režim</item>
     </string-array>
     <string-array name="three_dimension">
-        <item>关闭3D</item>
-        <item>自动识别</item>
-        <item>上下</item>
-        <item>左右</item>
-        <item>帧封装</item>
+        <item>Ukončit 3D</item>
+        <item>Autom. rozpoznání</item>
+        <item>Top bottom</item>
+        <item>Side by side</item>
+        <item>Frame Packing</item>
     </string-array>
     <string-array name="screen_ratio">
-        <item>原始比例</item>
-        <item>全屏拉伸</item>
+        <item>Původní rozměr</item>
+        <item>Na celou obr.</item>
     </string-array>
 </resources>
