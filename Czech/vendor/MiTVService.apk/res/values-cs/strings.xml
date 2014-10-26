@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="action_settings">Nastavení</string>
-  <string name="app_name">Služby MiTV</string>
-  <string name="hello_world">Vítejte!</string>
+    <string name="app_name">MiTVService</string>
+    <string name="action_settings">Nastavení</string>
+    <string name="hello_world">Vítejte!</string>
 </resources>
