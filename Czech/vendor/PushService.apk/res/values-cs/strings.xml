@@ -1,13 +1,13 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="app_name">Xiaomi sync</string>
-  <string name="find_device">Find device</string>
-  <string name="find_device_stop_noise">Click \"OK\" to stop sound</string>
-  <string name="pref_summary_sync_display_photo_on_wifi_only">Recommended to enable, otherwise it will consume the network traffic</string>
-  <string name="pref_title_sync_contacts_title">Sync contacts</string>
-  <string name="pref_title_sync_display_photo_on_wifi_only">Display photos: WLAN only</string>
-  <string name="sub_sync_item_sms_summary">Recommend to enable, otherwise it will increase data charges.</string>
-  <string name="sub_sync_item_sms_title_wifi_only">Synchronize MMS: WLAN only</string>
-  <string name="sync_item_sms_summary">Turn on after text messages have been sychronized.</string>
-  <string name="sync_item_sms_title">Sync SMS</string>
+    <string name="app_name">Xiaomi synchronizace</string>
+    <string name="sync_item_sms_title">Synchr. SMS</string>
+    <string name="sync_item_sms_summary">Zapněte po dokončení synchronizace SMS.</string>
+    <string name="sub_sync_item_sms_title_wifi_only">Synchronizovat MMS: pouze Wi-Fi</string>
+    <string name="sub_sync_item_sms_summary">Doporučuje se povolit, jinak se zvýší poplatky za stahování dat.</string>
+    <string name="pref_title_sync_contacts_title">Synchr. kontakty</string>
+    <string name="pref_title_sync_display_photo_on_wifi_only">Zobrazit fotky: pouze Wi-Fi</string>
+    <string name="pref_summary_sync_display_photo_on_wifi_only">Doporučuje se povolit, jinak se zvýší poplatky za stahování dat.</string>
+    <string name="find_device">Najít zařízení</string>
+    <string name="find_device_stop_noise">Stiskněte \"OK\" pro ztišení</string>
 </resources>
