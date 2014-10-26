@@ -1,4 +1,17 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="app_name">Wifi Displej</string>
+    <string name="app_name">Bezdrátový displej</string>
+    <string name="wait_for_connection">%s čeká na připojení</string>
+    <string name="disabling_wifi">Vypínání Wi-Fi...</string>
+    <string name="wifi_disabled">Wi-Fi vypnuto</string>
+    <string name="starting_wfd">Zapínání Wi-Fi displeje...</string>
+    <string name="wfd_started">Wi-Fi Displej spuštěn</string>
+    <string name="peer_connecting">Připojování %s...</string>
+    <string name="peer_disconnecting">Odpojování %s...</string>
+    <string name="peer_connected">%s připojeno</string>
+    <string name="peer_connect_error">Chyba připojení, zkuste to prosím znovu</string>
+    <string name="peer_disconnected">Odpojování</string>
+    <string name="help">Pomoc</string>
+    <string name="supported_devices">Zařízení</string>
+    <string name="loading_mirror_service">Přijímám video data...</string>
 </resources>
